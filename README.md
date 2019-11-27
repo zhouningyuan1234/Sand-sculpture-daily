@@ -18,6 +18,11 @@
 		沙雕重要信息:<br>
 		1、肚子上写着:别管我,我要拉屎,屎真香。<br>
 		2、战斗力:100000000<br>
+		广告时间:<br>
+		丢大便,<br>
+		丢大便。<br>
+		轻轻地放在小朋友的头上,<br>
+		大家不要告诉他。<br>
 	  </div>
 	  <div>沙雕日报:<button title="back"><a href="https://zhouningyuan1234.github.io/yyy-Sand-sculpture-daily/"><span class="purple">返回</span></a></button></div>
   </body>
