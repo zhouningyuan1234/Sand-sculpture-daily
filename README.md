@@ -9,7 +9,7 @@
 		-->
         </style>
 	</head>
-  <body>
+  <body><h1><center>沙雕日报第1期</center></h1>
 	  <div>
 		公元前5亿年......<br>
 		有一位沙雕诞生了,<br>
